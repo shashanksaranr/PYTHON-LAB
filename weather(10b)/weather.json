@@ -1,0 +1,12 @@
+{
+  "weather": [
+    {
+    "description": "clear sky"
+  }
+],
+
+  "main": {
+    "temp": 27,
+    "humidity":64
+  }
+}
